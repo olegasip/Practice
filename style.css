@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(243, 239, 190);
+}
+a{
+    text-decoration: none;
+    c
+}
+header{
+    font-family: 'VT323', monospace;
+    display: flex;
+    align-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.head-navbar{
+    font-size: larger;
+}
+.head-logo h1{
+    color: black;
+}
+.text-logo{
+
+}
+main{
+    margin: 2%;
+}
+.accordion-item{
+    background-color: rgb(233, 229, 180);
+}
+.accordion-button{
+    background-color: rgb(213, 209, 160);
+    display: block;
+}
